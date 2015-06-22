@@ -13,6 +13,7 @@ Below are many subject layouts (TOCs) from various education sources. We will co
  * Opensourceway.com #2 - http://www.theopensourceway.org/wiki/Main_Page
  * RIT Class - http://teachingopensource.org/index.php/RIT/The_Course
      ** RIT Class Output - https://github.com/fossrit/HowToFOSS
+ * RIT Biz & Legal FOSS Class - https://github.com/decause/bizlegfoss
  * RPI Kitware class - https://public.kitware.com/OpenSourceSoftwarePractice/index.php/Fall2009/Course_notes#Lecture_1_-_Introduction_.28Will_Schroeder.29
  * RPI 2012 - https://public.kitware.com/OpenSourceSoftwarePractice/index.php/Fall2012/Course_notes
  * RPI other - https://public.kitware.com/OpenSourceSoftwarePractice/index.php/Main_Page
@@ -82,6 +83,21 @@ Theory, then Hands-On, then Discuss, REPEAT
      * Download / Install - Prep for Project use in stage 2
 
 === POSSE Class Stage 2
+Group work mixed with lectures to produce real student OSS activities
+
+ . Exploring and evaluating OSS Projects
+     * Introductions
+     * Actual student participation w/ HFOSS
+         ** Caribou - GNOME visual keyboard
+         ** OpenMRS - Medical Records
+         ** STEM - Virus outbreaks
+         ** Mousetrap - Head-tracking
+     * Choosing an appropriate HFOSS project for your classroom
+         ** Critical: Size, Scale, Complexity, Active Community, On-Ramping, Artifacts, Support
+         ** Secondary: Domain, Maturity, Support, Roadmap, Contribution Types, Openness, Student Friendliness, Sizzle
+     * Dev workflow and Issue Tracking
+         ** Github as version control
+         ** Issue tracker (bugs) on github (by Stoney)
 
 === Joe Original os-curriculum
 Get students into the work ASAP.
